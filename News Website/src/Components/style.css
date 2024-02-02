@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    border: 1px solid black;
+  }
+
+
+    
+
+.Box{
+    width: 360px;
+    /* padding: 10px; */
+    margin: 7px;
+    height: 560px;
+    border: 1px solid black; 
+
+
+}
+
+img {
+    width: 320px;
+}
