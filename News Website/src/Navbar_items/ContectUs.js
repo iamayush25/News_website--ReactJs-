@@ -19,12 +19,12 @@ const ContactUS = () => {
 
                 <div class="contact-info">
                     <h3><strong>Contact:</strong></h3>
-                    <span>1234567890</span>
+                    <span>9993551109</span>
                 </div>
 
                 <div class="contact-info">
                     <h3><strong>Email:</strong></h3>
-                    <span>Ayush12@gmail.com</span>
+                    <span>ayush22@navgurukul.org</span>
                 </div>
 
                 <div class="contact-info">

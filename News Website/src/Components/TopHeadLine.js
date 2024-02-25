@@ -38,7 +38,7 @@ function TopHeadLine() {
                         <p>{item.description}</p>
                         <h3> Read full artical <a target = "_blank" href = "{item.url}"> &#10147;&#9997; </a></h3>
                     </div>
-                ))};
+                ))}
             </div>
         );
     }

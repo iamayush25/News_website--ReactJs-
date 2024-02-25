@@ -23,7 +23,7 @@ const Header = ({ SearchNews }) => {
     return (
         <div>
             <header className='navbar'>
-                <h1 className='logo'>B̳̿͟͞r̳̿͟͞e̳̿͟͞a̳̿͟͞k̳̿͟͞i̳̿͟͞n̳̿͟͞g̳̿͟͞ N̳̿͟͞e̳̿͟͞w̳̿͟͞s̳̿͟͞</h1>
+                <h1 className='logo'>Breaking News</h1>
                 <div id='inputBTN'>
                     <span className='links'>
                         <Link to="/">Home</Link>
