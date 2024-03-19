@@ -32,10 +32,12 @@ function TopHeadLine() {
             <div className='main'>
                 {Data.map((item, index) => (
                     <div className='Box' key={index}>
-                        <h1>{item.auther}</h1>
-                        <h1>{item.title}</h1>
+                        {/*<h1>{item.auther}</h1>*/}
+                        <h3>{item.title}</h3>
+                        <hr/>
                         <img src={item.urlToImage} alt={item.source.name} />
                         <p>{item.description}</p>
+                        <hr/>
                         <h3> Read full artical <a target = "_blank" href = "{item.url}"> &#10147;&#9997; </a></h3>
                     </div>
                 ))}
