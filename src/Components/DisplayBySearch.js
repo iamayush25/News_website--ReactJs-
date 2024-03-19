@@ -7,10 +7,6 @@ const DisplayBySearch = ({news}) => {
     const [isDisplay, setisDisplay] = useState("")
 
     
-
-
-
-
     const SearchNews = () => {
         console.log("NewsData", News);
         const fetchNewsDirect = async () => {

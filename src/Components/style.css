@@ -6,9 +6,6 @@
 
   }
 
-
-    
-
 .Box{
     width: 360px;
     /* padding: 10px; */
@@ -17,8 +14,6 @@
     border: 1px solid black; 
     overflow: scroll;
     font-size: small;
-
-
 
 }
 
